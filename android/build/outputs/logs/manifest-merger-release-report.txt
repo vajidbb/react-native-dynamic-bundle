@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml:2:1-4:12
+	package
+		INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android/src/main/AndroidManifest.xml

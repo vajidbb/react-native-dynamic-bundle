@@ -1,0 +1,21 @@
+{
+    "isRebasing": false,
+    "patches": [
+        {
+            "didApply": true,
+            "patchContentHash": "0b693bd05c20592f96fef4de4e235da1a244e487df075feb1ab03d88c8ab7c6b",
+            "patchFilename": "react-native-dynamic-bundle+0.5.0+001+initial.patch"
+        },
+        {
+            "didApply": true,
+            "patchContentHash": "aa8b6eb1ea80772e6921505b2035184374db3c41ca58c01fc6af67a4bea56ae4",
+            "patchFilename": "react-native-dynamic-bundle+0.5.0+002+rename-podspec.patch"
+        },
+        {
+            "didApply": true,
+            "patchContentHash": "ac86644cc0ac799356573b9400086f6c90496565bab557330e16da870546551e",
+            "patchFilename": "react-native-dynamic-bundle+0.5.0+003+sdk update.patch"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-release-27:/xml/rn_dev_preferences.xml",
+        "source": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-jetified-react-android-0.81.1-release-7:/xml/rn_dev_preferences.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/mobiledev/Desktop/projects/rn_0.81/app/node_modules/react-native-dynamic-bundle/android"
+    name=":react-native-dynamic-bundle"
+    type="LIBRARY"
+    maven="bbApp:react-native-dynamic-bundle:unspecified"
+    agpVersion="8.11.0"
+    buildFolder="build"
+    bootClassPath="/Users/mobiledev/Library/Android/sdk/platforms/android-36/android.jar:/Users/mobiledev/Library/Android/sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

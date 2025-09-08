@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-release-27:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-core-1.13.1-13:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-release-27:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-core-1.13.1-13:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-release-27:/layout-v21/notification_action.xml",
+        "source": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-core-1.13.1-13:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-release-27:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-core-1.13.1-13:/layout-v21/notification_action_tombstone.xml"
+    }
+]

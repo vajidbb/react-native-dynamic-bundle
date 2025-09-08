@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-release-27:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/.gradle/caches/8.14.3/transforms/b62937f1e11186e7cc2017442bb0fa46/transformed/appcompat-1.7.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.reactnative.dynamicbundle.react-native-dynamic-bundle-mergeReleaseResources-25:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/mobiledev/.gradle/caches/8.14.3/transforms/b62937f1e11186e7cc2017442bb0fa46/transformed/appcompat-1.7.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
