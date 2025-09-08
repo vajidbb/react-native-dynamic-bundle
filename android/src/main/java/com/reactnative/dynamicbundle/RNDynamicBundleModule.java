@@ -116,4 +116,5 @@ public class RNDynamicBundleModule extends ReactContextBaseJavaModule {
   public void setListener(OnReloadRequestedListener listener) {
     this.listener = listener;
   }
+
 }
