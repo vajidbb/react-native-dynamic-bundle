@@ -49,7 +49,7 @@ or
 #### Android
 
 1. Open up `android/app/src/main/java/[...]/MainActivity.java`
-  - Add `import org.mauritsd.reactnativedynamicbundle.RNDynamicBundlePackage;` to the imports at the top of the file
+  - Add `import com.reactnative.dynamicbundle.RNDynamicBundlePackage;` to the imports at the top of the file
   - Add `new RNDynamicBundlePackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```

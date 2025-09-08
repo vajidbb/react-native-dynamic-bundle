@@ -1,5 +1,4 @@
-
-package org.mauritsd.reactnativedynamicbundle;
+package com.reactnative.dynamicbundle;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -117,5 +116,4 @@ public class RNDynamicBundleModule extends ReactContextBaseJavaModule {
   public void setListener(OnReloadRequestedListener listener) {
     this.listener = listener;
   }
-
 }
